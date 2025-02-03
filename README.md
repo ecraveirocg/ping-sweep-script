@@ -38,6 +38,3 @@ Este script realiza um **Ping Sweep** em uma faixa de endereços IP para identif
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias, abrindo **Issues** ou enviando **Pull Requests**.
 
-## Licença
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
